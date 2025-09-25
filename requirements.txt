@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+plotly
+requests
+streamlit
+httpx
